@@ -1,0 +1,11 @@
+The included book.pdf is Think Python, 2nd Edition, by Allen B. Downey.
+Copyright © 2015 Allen Downey, Green Tea Press.
+
+The book states that permission is granted to copy, distribute, and/or modify it
+under the Creative Commons Attribution-NonCommercial 3.0 Unported License:
+https://creativecommons.org/licenses/by-nc/3.0/
+
+This attribution is provided for the sample PDF included to make the project
+runnable out of the box. Review the license terms before using or redistributing
+the book for any commercial purpose. The RAG application code is licensed under
+MIT; that license does not replace the book's separate license.
